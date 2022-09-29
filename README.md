@@ -1,3 +1,3 @@
 # hello-world
-My First Step On GitHub
+Empty For now
 Working on getting better for work
